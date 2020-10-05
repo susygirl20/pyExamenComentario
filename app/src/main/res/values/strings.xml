@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">pyExamenComentario</string>
+    <string name="edtNames">Nombres</string>
+    <string name="edtSurnames">Apellidos</string>
+    <string name="edtEmail">Correo</string>
+    <string name="edtPass">Contraseña</string>
+    <string name="btnSignIn">INGRESAR</string>
+    <string name="btnRegister">Regístrate</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textBack">Regresar</string>
+    <string name="textLogout">Logout</string>
+    <string name="textService">Huanchaco Beach</string>
+    <string name="textClient">Susan Mendoza</string>
+    <string name="textDate">12-10-2020</string>
+    <string name="textDesciption">La oferta culinaria en la playa de huanchaco es la mejor en el norte del Perú.además de eso tiene muchos atractivos turísticos como Chan Chan y las playas de huanchaco huanchaquito. También es un excelente destino para practicar el surf.</string>
+    <string name="textTitle">Lugares turísticos</string>
+    <string name="textNombre">Nombre:  </string>
+    <string name="edtService">Lugar</string>
+    <string name="edtDescription">Descripción</string>
+    <string name="btnUploadPhoto">Seleccione foto</string>
+    <string name="txtOptional">Opcional</string>
+    <string name="btnPublish">Publicar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="textRating">Calificación</string>
+
+</resources>

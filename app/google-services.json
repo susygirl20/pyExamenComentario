@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915299884523",
+    "firebase_url": "https://pyexamencomentario.firebaseio.com",
+    "project_id": "pyexamencomentario",
+    "storage_bucket": "pyexamencomentario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915299884523:android:2513a40cee26ec81380dae",
+        "android_client_info": {
+          "package_name": "com.everis.pyexamencomentario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915299884523-67e1pali077vjjga2sdp2t3gsk58o06n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSER6aLf-hN7tfVpgAyF_iiLrTg7JLlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915299884523-67e1pali077vjjga2sdp2t3gsk58o06n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
